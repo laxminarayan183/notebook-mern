@@ -1,4 +1,4 @@
-# Voting Application
+# Notebook store Application
 
 This is a fullstack application where users buy books. It provides functionalities for user authentication, Admin authentication, and manage books.
 
